@@ -1,0 +1,3 @@
+there are some list,tuple,str this what indexes having sequences which are in ordered location this is similar concept like arrays 
+
+in this if we going right to left element then the value of index will be start from  minus 

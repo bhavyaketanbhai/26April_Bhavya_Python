@@ -1,0 +1,7 @@
+->As we know in c language that there is one stack and heap same concept is in python.
+
+in python language only references is placed in stack memory
+
+and object is placed in private heap space.we cannot access private heap space directly we can able to access with the help of the only references 
+
+thus memory is managend in python.

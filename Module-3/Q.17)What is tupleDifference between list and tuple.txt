@@ -1,0 +1,3 @@
+A tuple is an ordered, immutable sequence of elements. This means that once a tuple is created, its contents cannot be modified.
+
+The main difference between a list and a tuple is that a list is mutable (can be modified), while a tuple is immutable (cannot be modified). This means that once a tuple is created, its contents cannot be changed. Another difference is that a list is defined using square brackets (`[]`), while a tuple is defined using parentheses (`()`).

@@ -1,0 +1,3 @@
+The `append()` method is used to add a single element to the end of a list
+
+The `extend()` method, on the other hand, is used to add multiple elements to a list. It takes an iterable (such as a list or a tuple) as an argument and adds each element of the iterable to the end of the list.

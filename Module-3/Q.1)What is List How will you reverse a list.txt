@@ -1,0 +1,5 @@
+A list is a collection of elements that are ordered and changeable. Lists are one of the most versatile data structures in Python and can be used to store a collection of related values or objects.
+
+my_list = [1, 2, 3, 4, 5]
+my_list.reverse()
+print(my_list)

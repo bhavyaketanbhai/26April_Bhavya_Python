@@ -1,0 +1,11 @@
+21.What are oops concepts? Is multiple inheritance supported in java
+
+A)1. Encapsulation: The concept of encapsulation focuses on keeping the implementation details of an object hidden from the outside world. It is achieved by making the object's fields and methods private and providing public methods to access and modify them.
+
+2. Inheritance: Inheritance is a mechanism that allows a new class to be based on an existing class. The new class inherits the properties and methods of the existing class and can add new properties and methods of its own.
+
+3. Polymorphism: Polymorphism is the ability of an object to take on many forms. It allows objects of different classes to be treated as if they were of the same class.
+
+4. Abstraction: Abstraction is the process of hiding the implementation details of an object and only showing its essential features. It is achieved by using abstract classes and interfaces.
+
+Java supports multiple inheritance through interfaces. A class can implement multiple interfaces, but it can only extend one class. This is because Java does not support multiple inheritance of implementation, only multiple inheritance of type.

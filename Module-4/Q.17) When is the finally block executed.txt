@@ -1,0 +1,3 @@
+17. When is the finally block executed
+
+A)The `finally` block in a `try`-`except`-`finally` statement is executed regardless of whether an exception is raised or not

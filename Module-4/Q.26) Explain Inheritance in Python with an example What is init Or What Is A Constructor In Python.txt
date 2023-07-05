@@ -1,0 +1,28 @@
+26. Explain Inheritance in Python with an example? What is init? Or What
+Is A Constructor In Python
+
+A)Inheritance is a feature in Python that allows a class to inherit properties and methods from another class. The class that inherits is called the child class, and the class that is inherited from is called the parent class. The child class can then add or override methods and properties as needed.
+
+
+class Animal:
+    def __init__(self, name):
+        self.name = name
+
+    def speak(self):
+        print("An animal speaks")
+
+class Dog(Animal):
+    def speak(self):
+        print("Woof!")
+
+class Cat(Animal):
+    def speak(self):
+        print("Meow!")
+
+my_dog = Dog("Rover")
+my_cat = Cat("Whiskers")
+
+my_dog.speak() # Output: Woof!
+my_cat.speak() # Output: Meow!
+
+n `__init__` method that takes a `name` argument and sets it as an attribute of the instance. We also define a `speak` method that prints "An animal speaks".

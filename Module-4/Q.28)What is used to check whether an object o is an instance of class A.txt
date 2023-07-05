@@ -1,0 +1,10 @@
+28.What is used to check whether an object o is an instance of class A
+
+A)You can use the `isinstance()` function to check whether an object `o` is an instance of class `A`.
+
+class Car:
+    pass
+
+my_car = Car()
+
+print(isinstance(my_car, Car)) # Output: True

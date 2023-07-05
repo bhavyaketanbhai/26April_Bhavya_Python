@@ -1,0 +1,3 @@
+29.What relationship is appropriate for Course and Faculty
+
+A)One appropriate relationship between `Course` and `Faculty` is a many-to-many relationship. This is because a course can be taught by multiple faculty members, and a faculty member can teach multiple courses. 

@@ -1,0 +1,11 @@
+try:
+    # code that might raise an exception
+    file = open("nonexistent_file.txt")
+    content = file.read()
+    file.close()
+except FileNotFoundError:
+    # code that handles the FileNotFoundError exception
+    print("File not found")
+except IOError:
+    # code that handles the IOError exception
+    print("IO error occurred")

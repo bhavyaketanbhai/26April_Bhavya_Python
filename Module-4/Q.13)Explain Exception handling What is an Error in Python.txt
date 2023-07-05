@@ -1,0 +1,5 @@
+13.Explain Exception handling? What is an Error in Python?
+
+A)In Python, an error is an unexpected event that occurs while a program is running, which causes the program to terminate. There are several types of errors in Python, including syntax errors, runtime errors, and logical errors.
+
+Exception handling is a way to handle errors that occur during the execution of a program. When an error occurs, an exception is raised, which can be caught and handled by the program. Exception handling allows a program to recover from errors and continue running, instead of terminating.

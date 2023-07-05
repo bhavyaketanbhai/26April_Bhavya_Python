@@ -1,0 +1,3 @@
+30.What relationship is appropriate for Student and Person
+
+A)One appropriate relationship between `Student` and `Person` is an inheritance relationship. This is because a `Student` is a specific type of `Person`, with additional attributes and behaviors that are specific to students.

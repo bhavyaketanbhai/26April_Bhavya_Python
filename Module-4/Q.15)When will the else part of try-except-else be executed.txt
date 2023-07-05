@@ -1,0 +1,9 @@
+try:
+    # code that might raise an exception
+    a = 1 / 2
+except ZeroDivisionError:
+    # code that handles the ZeroDivisionError exception
+    print("Cannot divide by zero")
+else:
+    # code that is executed if no exception is raised
+    print("The division was successful")

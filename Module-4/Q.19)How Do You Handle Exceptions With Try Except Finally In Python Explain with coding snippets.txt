@@ -1,0 +1,9 @@
+19.How Do You Handle Exceptions With Try/Except/Finally In Python?
+Explain with coding snippets.
+
+A)try:
+    # code that may raise an exception
+except ExceptionType:
+    # code to handle the exception
+finally:
+    # code that will always run, regardless of whether an exception was raised or not
